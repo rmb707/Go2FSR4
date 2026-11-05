@@ -1,7 +1,8 @@
 # Release checklist
 
-The release configuration starts with liveInstallEnabled=false. Do not change it
-merely to make the installer appear finished.
+Version 0.1.0 enables installation as an experimental first release at the project
+owner's direction. Unchecked items below remain unvalidated; enabling installation
+does not mark them complete.
 
 ## Completed in development
 
@@ -15,7 +16,7 @@ merely to make the installer appear finished.
 - [x] Manual experiment survived reboot with Secure Boot enabled.
 - [x] Native COD benchmark exports documented with Ultra Performance mode.
 
-## Required before installation is enabled publicly
+## Release validation
 
 - [x] Verify pinned downloads from a fresh cache (not only local files).
 - [ ] Run preparation through the actual packaged GUI with publisher tools.
@@ -34,11 +35,11 @@ merely to make the installer appear finished.
 - [ ] Confirm publisher license/terms for local download and package modification.
 - [ ] Decide executable signing and publish independent release hashes/provenance.
 - [x] Obtain project owner's Ko-fi URL and GitHub destination.
-- [ ] Review README, images, release notes and public support scope.
-- [ ] Remove development-only placeholders; set release version/channel deliberately.
+- [x] Review README, images, release notes and public support scope.
+- [x] Remove development-only placeholders; set release version/channel deliberately.
 
 ## Publishing
 
-Publish source first or a clearly marked developer preview if requested. A binary
-whose Install action is disabled is not the promised public one-click installer.
-Source publication does not enable installation or establish installer readiness.
+Publish v0.1.0 as an experimental prerelease with the executable, matching source
+archive, and SHA-256 checksums. The release notes must identify the outstanding
+live lifecycle and recovery tests. Do not describe unchecked items as passed.

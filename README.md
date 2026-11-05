@@ -15,9 +15,9 @@ Resolution was changed in Legion Go settings. Both runs use the same driver; thi
 
 ## Install
 
-**The install-enabled release is not available yet. Installation is disabled in the development build.**
+Download [Go2FSR4.exe](https://github.com/rmb707/Go2FSR4/releases/download/v0.1.0/Go2FSR4.exe).
 
-Release workflow:
+**Experimental first release: live install/restore testing is incomplete.**
 
 1. Run **Go2FSR4.exe** and approve Windows administrator access.
 2. Choose **Install**, then restart.

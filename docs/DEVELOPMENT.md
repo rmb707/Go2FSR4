@@ -40,11 +40,11 @@ exports, and internal assistant files are excluded from public packages.
 
 ## Release validation
 
-The current channel is development and live installation is disabled. Packaging
-does not change that setting. Read-only device checks and an FSR context probe do
-not validate a complete automated install/uninstall lifecycle.
+Version 0.1.0 is an experimental release with installation enabled. Packaging
+does not change the configured installation setting. Read-only device checks and
+an FSR context probe do not validate a complete automated install/uninstall lifecycle.
 
-Before enabling installation, complete the [release checklist](RELEASE-CHECKLIST.md)
+Track outstanding validation in the [release checklist](RELEASE-CHECKLIST.md)
 and record results in [validation status](VALIDATION.md). Test installation from
 the supported Lenovo baseline, reboot persistence, AMD Settings, restore,
 reinstallation, and interrupted-operation recovery. Use a clean supported starting

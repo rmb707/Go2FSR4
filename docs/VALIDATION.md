@@ -4,7 +4,7 @@
 
 - Windows PowerShell syntax parsing for project scripts and vendored builders.
 - Ten automated checks: path containment/ADS rejection; allowed child path;
-  development install rejection; unexpected baseline/version/hash rejection;
+  release-configuration checks; unexpected baseline/version/hash rejection;
   Secure Boot baseline rejection; uninstall ownership excludes preexisting and
   unrelated packages; tampered file rejection; atomic journal revision retention.
 - Five additional lifecycle checks cover exact original INF/device matching,
@@ -85,5 +85,6 @@ uninstallation, and recovery remain separate outstanding release tests below.
   original AMD UI restore, and complete interruption recovery.
 - Installer Authenticode publisher signing and public release provenance.
 
-Live installation remains disabled. These checks do not authorize claiming that
-the automated lifecycle or every supported game's rendering has been verified.
+Version 0.1.0 enables installation as an experimental first release. These checks
+do not establish that the automated lifecycle or every game's rendering has been
+verified. The remaining release checks above are still outstanding.

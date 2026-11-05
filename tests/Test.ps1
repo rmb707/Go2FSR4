@@ -16,7 +16,19 @@ Check 'Traversal and alternate data streams rejected' {
  foreach($relative in @('..\escape','C:\outside','safe.txt:stream','\\server\share')){Reject {Join-SafePath $env:TEMP $relative}}
 }
 Check 'Safe child path retained' {if((Join-SafePath $env:TEMP 'safe\file') -ne [IO.Path]::GetFullPath((Join-Path $env:TEMP 'safe\file'))){throw 'Child path mismatch'}}
-Check 'Development installation gate stops mutation' {Reject {Install-Go2}}
+Check 'Release configuration enables install while disabled or non-release builds are rejected' {
+ $configured=$script:Release
+ $script:Release=$configured.PSObject.Copy()
+ try{
+  $script:Release.liveInstallEnabled=$false; $script:Release.channel='release'
+  Reject {Assert-LiveRelease}
+  $script:Release.liveInstallEnabled=$true; $script:Release.channel='development'
+  Reject {Assert-LiveRelease}
+  $script:Release.channel='release'
+  Assert-LiveRelease
+ }finally{$script:Release=$configured}
+ if($configured.channel -eq 'release' -and $configured.liveInstallEnabled){Assert-LiveRelease}
+}
 Check 'Unsupported baseline rejected' {Reject {Assert-InstallBaseline ([pscustomobject]@{Version='wrong';ProblemCode=0;SecureBootRegistry=1}) $script:Release.originalInfSha256}}
 Check 'Secure Boot off rejected by baseline' {Reject {Assert-InstallBaseline ([pscustomobject]@{Version=$script:Release.originalDriverVersion;ProblemCode=0;SecureBootRegistry=0}) $script:Release.originalInfSha256}}
 Check 'Kernel security requires successful reads, Secure Boot and enforcement without test signing' {

@@ -1,9 +1,9 @@
 {
   "name": "Go2FSR4",
-  "version": "0.1.0-dev",
-  "channel": "development",
-  "liveInstallEnabled": false,
-  "releaseGate": "Full clean-install/uninstall/reinstall and recovery tests have not been completed. Development build: Verify and Prepare only.",
+  "version": "0.1.0",
+  "channel": "release",
+  "liveInstallEnabled": true,
+  "releaseGate": "Installation requires an enabled release build.",
   "driverVersion": "32.0.32015.7029",
   "adrenalinVersion": "26.10.1",
   "fsrVersion": "4.1.2",

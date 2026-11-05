@@ -1,19 +1,32 @@
-# Go2FSR4 0.1.0 development preview
+# Go2FSR4 v0.1.0 — experimental first release
 
-Not a public install release. Install is intentionally disabled.
+Installation is enabled. This is the first public package.
 
-Includes a single executable launcher, hardware verification, an isolated FSR
-context check, pinned-package preparation, install/uninstall source, protected
-transaction-journal design, test suite, and benchmark documentation.
+## Install
 
-Validated so far: source safety checks, complete official/candidate package
-hashes, compiled launcher's embedded-payload check, and read-only driver/kernel
-verification on the original test machine.
+Download **Go2FSR4.exe**, run it as administrator, choose **Install**, and restart.
+Reopen the same app and choose **Verify**. Use **Uninstall** in that app to restore
+the driver backed up by its installation.
 
-Still required: live clean install, reboot verification, full uninstall and
-post-uninstall reboot, interrupted-operation recovery, fresh-cache publisher
-downloads, original AMD UI restoration, installer publisher-signing plan, and
-public repository/donation details. See docs/RELEASE-CHECKLIST.md.
+Supported starting point: Legion Go 2 Z2 Extreme / Radeon 890M, exact C5 device
+profile, Windows 11, Lenovo driver **32.0.23033.5002**. Internet and **12 GB free**
+are required. The AMD package is downloaded directly from AMD and checked by hash.
 
-Do not distribute this as a finished one-click installer. No promise of support
-for other handhelds, all games, or future anti-cheat versions.
+## Included
+
+- AMD Adrenalin **26.10.1** adaptation with Secure Boot kept enabled.
+- Matching AMD Settings and DVR packages.
+- Hardware/security checks, verified downloads, driver backups, and recovery journal.
+- Isolated exact **FSR 4.1.2** context check without modifying games.
+
+## Validation status
+
+The driver setup and native COD benchmark were tested on the original device.
+Source checks, package hashes, fresh downloads, preparation, and launcher bundle
+verification pass. **The automated clean-install/reboot/uninstall/reinstall cycle
+and interruption recovery have not completed live validation.** Existing manual
+installations are not adopted.
+
+The executable is unsigned. **SHA256SUMS.txt** lists the executable and source ZIP
+hashes. This experimental release does not claim publisher signing or universal
+game compatibility.
