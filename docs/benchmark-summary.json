@@ -1,0 +1,14 @@
+{
+ "device":"Legion Go 2 Z2 Extreme / Radeon 890M",
+ "date":"2026-11-04",
+ "driver":"26.10.1",
+ "secureBoot":"Enabled on the tested machine after restart",
+ "upscalingMode":"Ultra Performance",
+ "exportModeLabel":"FSR (Ultra Performance)",
+ "modeNote":"Native FSR 4 Ultra Performance with AMD frame generation. Output resolution changed in Legion Go settings.",
+ "runs":[
+  {"id":"COD-1200p","output":"1920x1200","render":"1200x752","baseAverage":33,"generatedAverage":67,"baseLow1":25,"baseLow5":28,"generatedLow1":50,"generatedLow5":56,"latencyMs":57,"gpuMs":29},
+  {"id":"COD-800p","output":"1280x800","render":"800x496","baseAverage":55,"generatedAverage":109,"baseLow1":43,"baseLow5":46,"generatedLow1":50,"generatedLow5":58,"latencyMs":35,"gpuMs":17}
+ ],
+ "limits":["One run per setting; one device","Both runs use the new driver","Other settings and power state not independently proven identical","Exact FSR runtime revision not identified by CSV","Generated-frame FPS is not base FPS"]
+}

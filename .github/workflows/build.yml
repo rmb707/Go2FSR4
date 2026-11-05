@@ -1,0 +1,23 @@
+name: Build and verify development launcher
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Safety and parser tests (no driver installation)
+        shell: powershell
+        run: ./tests/Test.ps1
+      - name: Build launcher and verify embedded payload
+        shell: powershell
+        run: ./tools/Build.ps1
+      - name: Package reviewed public source
+        shell: powershell
+        run: ./tools/Package.ps1
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Go2FSR4-development
+          path: dist/
+          retention-days: 14

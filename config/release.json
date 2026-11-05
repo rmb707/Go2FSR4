@@ -1,0 +1,23 @@
+{
+  "name": "Go2FSR4",
+  "version": "0.1.0-dev",
+  "channel": "development",
+  "liveInstallEnabled": false,
+  "releaseGate": "Full clean-install/uninstall/reinstall and recovery tests have not been completed. Development build: Verify and Prepare only.",
+  "driverVersion": "32.0.32015.7029",
+  "adrenalinVersion": "26.10.1",
+  "fsrVersion": "4.1.2",
+  "koFiUrl": "https://ko-fi.com/Z8Z2LCWU8",
+  "repositoryUrl": "https://github.com/rmb707/Go2FSR4",
+  "minimumFreeGB": 12,
+  "kernelSha256": "3948E7607C10EE23FAB8A7370CC17AF8288DB4F6B5203154417F0D267CAD67FB",
+  "originalInfSha256": "1FED33BF875B0DC277DC12B6163F885D3F11B3963990630D0974BF13140830DD",
+  "originalDriverVersion": "32.0.23033.5002",
+  "downloads": [
+    {"name":"AMD.exe","url":"https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-26.10.1-win11-c.exe","sha256":"EAF0B61DE6CE31793D05222FD57B50C6A55095F52796A33683093381F9345B82"},
+    {"name":"7zr.exe","url":"https://www.7-zip.org/a/7zr.exe","sha256":"256FECA8E274E5DA655E2A284FABAFD9F554365EB164862089DACD4E8276D282"},
+    {"name":"7zip.exe","url":"https://github.com/ip7z/7zip/releases/download/26.05/7z2605-x64.exe","sha256":"FD99E86F57D8F429EF5ED045BF98315AF962E2309B0F1BA87A147A44C71647D0"},
+    {"name":"SDK.zip","url":"https://www.nuget.org/api/v2/package/Microsoft.Windows.SDK.BuildTools/10.0.28000.2526","sha256":"A09A4C9D68160CED4765137A9A7444EA560EA86C45D6A77093DEA58C2F7563A0"},
+    {"name":"WDK.zip","url":"https://www.nuget.org/api/v2/package/Microsoft.Windows.WDK.x64/10.0.28000.2526","sha256":"63C939FB5A79295BF40E941DB592681272219B04EDFF095FE2F3D123E5579A90"}
+  ]
+}

@@ -1,0 +1,16 @@
+build/
+dist/
+.local/
+*.pfx
+*.p12
+*.cer
+*.dmp
+*.log
+.codex/
+.claude/
+.t3/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+**/*handoff*
+**/*HANDOFF*

@@ -1,0 +1,100 @@
+{
+  "SchemaVersion": 1,
+  "Id": "LegionGo2-Z2Extreme",
+  "DisplayName": "Lenovo Legion Go 2 Z2 Extreme",
+  "InstallCapable": true,
+  "Hardware": {
+    "ExactHardwareId": "PCI\\VEN_1002&DEV_150E&SUBSYS_381C17AA&REV_C5",
+    "HardwarePrefix": "PCI\\VEN_1002&DEV_150E&SUBSYS_381C17AA",
+    "VendorId": "1002",
+    "DeviceId": "150E",
+    "SubsystemId": "381C17AA",
+    "Revision": "C5"
+  },
+  "Amd": {
+    "Family": "Strix",
+    "BaseInstallSection": "ati2mtag_Strix",
+    "DedicatedInstallSection": "ati2mtag_Strix_LegionGo2"
+  },
+  "Lenovo": {
+    "ExtensionId": "{07A2A561-D001-4503-B239-EF2FE0379EFB}",
+    "KnownOemDisplay": [
+      {
+        "OriginalInf": "u0201776.inf",
+        "DriverVersion": "32.0.23033.5002",
+        "SHA256": "1FED33BF875B0DC277DC12B6163F885D3F11B3963990630D0974BF13140830DD"
+      }
+    ],
+    "KnownOemExtension": [
+      {
+        "OriginalInf": "amduw23e.inf",
+        "DriverVersion": "32.0.23033.5002",
+        "SHA256": "1E33BB7534BCBBAF7F351CBAD5DA7C8CD2E9239D657B7F1D589171ADE90592C9"
+      }
+    ],
+    "RequiredSemanticMarkers": [
+      "PP_UserVariBrightLevel=3",
+      "Dal_UserVariBrightLevel=3",
+      "DalFeatureEnablePsrSU=0",
+      "DalMinBrightnessMillinits=0x1388",
+      "DalDisableZ10=1",
+      "EnableswGCForceAtcL24KbWa=1",
+      "DalWirelessDisplaySupport=1",
+      "DalDetectRequireHpdHigh=0"
+    ],
+    "OemSectionOrder": [
+      "ati2mtag_SoftwareDeviceSettings",
+      "ati2mtag_NAVIA_SoftwareDeviceSettings",
+      "ati2mtag_Strix_SoftwareDeviceSettings",
+      "ati2mtag_Mobile_SoftwareDeviceSettings"
+    ],
+    "OemSections": {
+      "ati2mtag_SoftwareDeviceSettings": [
+        "HKR,,DALNonStandardModesBCD5,%REG_BINARY%,07,20,12,80,00,00,00,00,08,00,12,80,00,00,00,00,09,00,16,00,00,00,00,00,10,00,16,00,00,00,00,00,10,80,19,20,00,00,00,00,12,00,19,20,00,00,00,00,14,40,25,60,00,00,00,00",
+        "HKR,,ProblemReportUrl,%REG_SZ%,show",
+        "HKR,,DALRestrictedModesBCD5,%REG_BINARY%,16,00,12,00,00,00,00,00,12,80,10,24,00,00,00,00",
+        "HKR,,HotkeysDisabled,%REG_DWORD%,0x1",
+        "HKR,,dvr_ui_component_na,%REG_SZ%,true",
+        "HKR,,DFPFreeSyncDefault,%REG_DWORD%,1",
+        "HKR,,PP_WaitOnRegisterTimeout,%REG_DWORD%,0x2710",
+        "HKR,,mobile_runtime_component_NA,%REG_SZ%,true",
+        "HKR,,AllowWebContent,%REG_SZ%,false",
+        "HKR,,LogoUrl,%REG_SZ%,hide",
+        "HKR,,SystemTray,%REG_SZ%,false",
+        "HKR,,DalWFDEnable,%REG_DWORD%,1",
+        "HKR,\"UMD\\DXVA\",ColorVibrance_DEF,%REG_SZ%,40",
+        "HKR,\"UMD\\DXVA\",ColorVibrance_ENABLE_DEF,%REG_SZ%,0",
+        "HKR,,DALRULE_ALLOWMONITORRANGELIMITMODESCRT,%REG_DWORD%,0",
+        "HKR,,InitDelay,%REG_DWORD%,0x7FFFFFFF",
+        "HKR,,ToggleRsHotkey,%REG_SZ%,none",
+        "HKR,,LCDFreeSyncDefault,%REG_DWORD%,0x7"
+      ],
+      "ati2mtag_NAVIA_SoftwareDeviceSettings": [
+        "HKR,,ShowRSOverlay,%REG_SZ%,false"
+      ],
+      "ati2mtag_Strix_SoftwareDeviceSettings": [
+        "HKR,,DalMinBrightnessMillinits,%REG_DWORD%,0x1388",
+        "HKR,,DalFeatureEnablePsrSU,%REG_DWORD%,0",
+        "HKR,,DalDisableZ10,%REG_DWORD%,1",
+        "HKR,,EnableswGCForceAtcL24KbWa,%REG_DWORD%,1",
+        "HKR,,DalWirelessDisplaySupport,%REG_DWORD%,1",
+        "HKR,,DalDetectRequireHpdHigh,%REG_DWORD%,0",
+        "HKR,,BDC7E3EAF1E855EFFD3A, %REG_BINARY%,9B,16,09,9B"
+      ],
+      "ati2mtag_Mobile_SoftwareDeviceSettings": [
+        "HKR,,PP_UserVariBrightLevel,%REG_DWORD%,3",
+        "HKR,,Dal_UserVariBrightLevel,%REG_DWORD%,3"
+      ]
+    }
+  },
+  "ToolkitPolicy": {},
+  "Dat": {
+    "DeviceIdHex": "150E",
+    "RevisionHex": "C5",
+    "Mode": "InsertIfAbsent"
+  },
+  "Final": {
+    "ExpectedInfSHA256": "7201A6EC902929B2292BA4AA014645CA98A0B7B65777F15EA77D0BAB8D1B8DDB",
+    "ExpectedDatSHA256": "CDF57D74268F3CB763A996C16811CCB26F4055750743EEB68D03D8D686A2EC02"
+  }
+}

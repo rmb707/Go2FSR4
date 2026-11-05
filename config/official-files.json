@@ -1,0 +1,977 @@
+[
+    {
+        "path":  "u0205306.cat",
+        "length":  5512666,
+        "sha256":  "766788CBB8FFF2078F4EC88D9194CB1DA477B70F0C83915CD93EC22ED31D2A57"
+    },
+    {
+        "path":  "u0205306.inf",
+        "length":  1119492,
+        "sha256":  "884C91EF4681D3E383B48DC760B4B2A95C95281E5796686A99A40B44FF65EE9D"
+    },
+    {
+        "path":  "amdafd\\amdafd.cat",
+        "length":  11064,
+        "sha256":  "078FFDDC02B602ED97561395E13111B0C96A46EECADAA1E6FA8B46B03C3F8647"
+    },
+    {
+        "path":  "amdafd\\amdafd.inf",
+        "length":  1247,
+        "sha256":  "874EB54C2FA826D9A6D8F5CB15A7BF2DA43A467ED241DC8EECED3453802D3039"
+    },
+    {
+        "path":  "amdfdans\\amdfdans.cat",
+        "length":  16250,
+        "sha256":  "3E4F43949FC89AFC024474EF8B3DE9BEAFED3B1B43D3EE5F037DCAF681BFE90B"
+    },
+    {
+        "path":  "amdfdans\\AMDFDANS.inf",
+        "length":  1853,
+        "sha256":  "1F6169C1DAB8E89528D39B29A7A39C39DAB24D4BACB6FA3B689350F330199D50"
+    },
+    {
+        "path":  "amdfdans\\AMDNoiseSuppression.exe",
+        "length":  408688,
+        "sha256":  "2361F7C96D6DC976552BA4B6F33B0C213A5641C926E8DFC2F4E75FA5A4DE0CD3"
+    },
+    {
+        "path":  "amdfdans\\ANR-bgproc-Lib.dll",
+        "length":  315800,
+        "sha256":  "895AD649DA7426E0912E1EDA6DB6CB635A993CFCA6C80492ECEFF5D09B7881B3"
+    },
+    {
+        "path":  "amdfdans\\ANRonnxLib.dll",
+        "length":  587160,
+        "sha256":  "7018C93E1EF7FFF5B331D7067042CA3FDC59524B95148CEF247D42C0D01806AE"
+    },
+    {
+        "path":  "amdfdans\\anrsvc.dll",
+        "length":  24472,
+        "sha256":  "9AE98BA7152F2058EF3285C8215E64F6AA4CC1D8582723AD090E76DF47D7B77A"
+    },
+    {
+        "path":  "amdfdans\\Default.anrcfg",
+        "length":  148,
+        "sha256":  "9A8A2A251345AC9E7E09D8CED85255C67EC64B84C20703515E4B095FDBB131F9"
+    },
+    {
+        "path":  "amdfdans\\DirectML.dll",
+        "length":  12183448,
+        "sha256":  "266ED6C7726FD67194EB3588F7CEB52EA7FC6D673E1F8E3CF3AA8F5949637804"
+    },
+    {
+        "path":  "amdfdans\\ippANS.dll",
+        "length":  3753368,
+        "sha256":  "3243E15625B1F669778E2AAB6DB3092B42AC858980210DC6C69D0C94CB1F5312"
+    },
+    {
+        "path":  "amdfdans\\mdfaec.dll",
+        "length":  265624,
+        "sha256":  "E7091AC28342AD65D726941AB856F2DEC9F7C5B0A0291C173A3D8E7625ECE8BD"
+    },
+    {
+        "path":  "amdfdans\\onnxruntime.dll",
+        "length":  13012888,
+        "sha256":  "2801274E6718348EF91CBF87B9101C53CF967CAEBA255055A2F56096CE2BE15D"
+    },
+    {
+        "path":  "amdfdans\\PMLN_model.onnx",
+        "length":  12666958,
+        "sha256":  "A7E5B6EDF6BCB9C96BE58D6F759825E12AF82FA06BA150E41440E0C715442FDB"
+    },
+    {
+        "path":  "amdfdans\\resource.h",
+        "length":  447,
+        "sha256":  "B797686E901C40FF4C05B0266484F01FA37C1C0BD2587AC93B717F676FE4CB0E"
+    },
+    {
+        "path":  "amdfdans\\STLN_model.onnx",
+        "length":  10853265,
+        "sha256":  "6822175658991A319259CC08DFDCB1C0FEC33492994CC5B000B510E584736D04"
+    },
+    {
+        "path":  "amdfdans\\STLN_modelv2.onnx",
+        "length":  10860155,
+        "sha256":  "D28DCC29A86EFD5570CA185DD79B6B0FFAE2DAF2F119DE28C3C787F14E5DA733"
+    },
+    {
+        "path":  "amdfendr\\amdfendr.cat",
+        "length":  12286,
+        "sha256":  "67953A25C5CD4B95AFFEE6558766BDDF222485A1535CEEA93D21CFC611B491E9"
+    },
+    {
+        "path":  "amdfendr\\amdfendr.inf",
+        "length":  2934,
+        "sha256":  "404D2F8810844D024AFFA0FDC862F9BA07573E8D26E170C254B30DC615AA3CE1"
+    },
+    {
+        "path":  "amdfendr\\amdfendr.sys",
+        "length":  424344,
+        "sha256":  "33FC9A6D2982CE14E3D00449936DA68BE88E2002BBF14C78342D31614C819B30"
+    },
+    {
+        "path":  "amdfendr\\amdfendrmgr.sys",
+        "length":  37784,
+        "sha256":  "A62F63DA1FFC4DD8CB69218339B3A5C23C30448350668E1512ABED4F06EBC903"
+    },
+    {
+        "path":  "amdfendr\\amdfendrsr.exe",
+        "length":  3000728,
+        "sha256":  "487E14345AF36748D0A5EFA0397A1625337F247FCF16961261D6B35E1F9BC378"
+    },
+    {
+        "path":  "amdocl\\amdhip64_6.dll",
+        "length":  17761808,
+        "sha256":  "DFF8511A590862DDA1A049C7E0A1B85B7D395262377D8182D07A482929184AA4"
+    },
+    {
+        "path":  "amdocl\\amdhip64_7.dll",
+        "length":  17677840,
+        "sha256":  "7E50A36172DACA1A4C321DC3CE3FCC3898EF1B4C3107923BE5D5AC87E9113D83"
+    },
+    {
+        "path":  "amdocl\\amdmmcl.dll",
+        "length":  145936,
+        "sha256":  "95EF664DB3F8BC29E5B8BA9CBA760DC573DAD6DE5E6EF008E767B57BC36308A0"
+    },
+    {
+        "path":  "amdocl\\amdmmcl6.dll",
+        "length":  177168,
+        "sha256":  "CB42B4D0217ED3E32A4BAA954558C8EA0285B00C586A3A8C47D8533D73918C22"
+    },
+    {
+        "path":  "amdocl\\amdocl.cat",
+        "length":  743291,
+        "sha256":  "CE4B8E554AA8DC4976FACB3A590DF4A3477FABE07B7C9E597C283C77C73C61CB"
+    },
+    {
+        "path":  "amdocl\\amdocl.inf",
+        "length":  2313,
+        "sha256":  "CBBBFCD88DDEA0A7CB95360781AE98833EC905186CA71AF98839D957C732B082"
+    },
+    {
+        "path":  "amdocl\\amdocl32.dll",
+        "length":  11963920,
+        "sha256":  "07C24A506CE0085B1550A9B9F4FDFD9AD11129D592F0CD23FB0BBB18FBE0419A"
+    },
+    {
+        "path":  "amdocl\\amdocl64.dll",
+        "length":  13230608,
+        "sha256":  "7AB5F634EDC0F00A1B828A6E06FBA60BC208570794998FB84A1E3610C1CDCB7E"
+    },
+    {
+        "path":  "amdocl\\amd_comgr32.dll",
+        "length":  107501072,
+        "sha256":  "B7FFA2209298628E392F5DC0A2EB7FC6627FBEB645716DE365A6BC7A3A66440D"
+    },
+    {
+        "path":  "amdocl\\amd_comgr_2.dll",
+        "length":  121180688,
+        "sha256":  "C5F9B5FAFF9435AF0820D6E3433AD71B0201EDC5038A1730D3FDAD4879032C6C"
+    },
+    {
+        "path":  "amdocl\\amd_comgr_3.dll",
+        "length":  124631056,
+        "sha256":  "0ADA529B6C8038BCB3DCAD2FE44FB890A721E7FD419641BA00F6A4A68E64B442"
+    },
+    {
+        "path":  "amdocl\\amd_opencl32.dll",
+        "length":  214032,
+        "sha256":  "5927C6943CAB2375E8FB90D5C242CD46E70897648375585B665544EE06841499"
+    },
+    {
+        "path":  "amdocl\\amd_opencl64.dll",
+        "length":  244752,
+        "sha256":  "B65475B110CE5DDD4C2B43B9FA416E5ECA3E33E2866C29F544A7A0FBF18F9F5F"
+    },
+    {
+        "path":  "amdocl\\clinfo.exe",
+        "length":  356872,
+        "sha256":  "A9D0F027F91CB2A9F5857D58D0D7D6D775068166AD5E1503CB0B12AF18E3CC57"
+    },
+    {
+        "path":  "amdocl\\regamdcomp.exe",
+        "length":  301584,
+        "sha256":  "6D3DDDC5C6DDA5EC3FC86B2A490E086A7ACA7161BF9D447C9E248B3C815C1F90"
+    },
+    {
+        "path":  "amdogl\\amdogl.cat",
+        "length":  738950,
+        "sha256":  "09584F1E9975E6E627578AFBF37A304E42B63FD1E5847C78E13F16B5D318FCD6"
+    },
+    {
+        "path":  "amdogl\\amdogl.inf",
+        "length":  1827,
+        "sha256":  "772A5A34F28431B8E5D658C132F390D3BCABD2AEE88D068DB8C06FB3725440EC"
+    },
+    {
+        "path":  "amdogl\\atio6axx.dll",
+        "length":  83552784,
+        "sha256":  "65720AB33ED515388ECCEB281C310C0FC005212C2B19969774945E3F5231652E"
+    },
+    {
+        "path":  "amdogl\\atioglxx.dll",
+        "length":  74576912,
+        "sha256":  "02F08B3459A1372EDBEFB036B92BB3EDC25806055485F583AFA1DF6F72D01D20"
+    },
+    {
+        "path":  "amdogl\\regamdcomp.exe",
+        "length":  301584,
+        "sha256":  "1740BDD4F7AE61DB22B363CC13117C740B569250ACA2EFE68ED3C829649F2882"
+    },
+    {
+        "path":  "amdpcibridge\\amdpcibridgeextension.cat",
+        "length":  11122,
+        "sha256":  "F767C0ED2A439DCEF8DC1277CAA40799DF4B0D8FEDA12DB89B1199066BD9EE80"
+    },
+    {
+        "path":  "amdpcibridge\\amdpcibridgeextension.inf",
+        "length":  1728,
+        "sha256":  "41F2235A26239447EF9A2049DA8CD13ECA963D4B8BC99459723C43C0968717C1"
+    },
+    {
+        "path":  "amdvlk\\amd-vulkan32.json",
+        "length":  703,
+        "sha256":  "9AEC10BF8D8A684BA35C4EF22804B48AF43B156DCC1683AD026FFB20E32F32FA"
+    },
+    {
+        "path":  "amdvlk\\amd-vulkan64.json",
+        "length":  703,
+        "sha256":  "21878D857CA213645042475CCEFA1CC6C787415D19758D6FBD7D490D8A8B5844"
+    },
+    {
+        "path":  "amdvlk\\amdvlk.cat",
+        "length":  742274,
+        "sha256":  "CA4523D5F5EFEE608F08B9C4A20DFF8EB43ED1EB7629DADB7CF6936504487276"
+    },
+    {
+        "path":  "amdvlk\\amdvlk.inf",
+        "length":  2663,
+        "sha256":  "ADEB1D8180C610B863FD9D7527D9658DE358B291A43E699F71EF2BF0E8589C25"
+    },
+    {
+        "path":  "amdvlk\\amdvlk32.dll",
+        "length":  106552848,
+        "sha256":  "44E3D4B06736F2C91768BCEDD5CBD25A43EEB866AF5B44D851BA7DC930BCCE20"
+    },
+    {
+        "path":  "amdvlk\\amdvlk64.dll",
+        "length":  119503888,
+        "sha256":  "36A9EF32D75476AA154ACAB3C79C0D1B6EF8FFE36B378239F5A48EEE851B7A44"
+    },
+    {
+        "path":  "amdvlk\\amdvlk_nexus.cab",
+        "length":  77580159,
+        "sha256":  "482FB5A0093BAAFD581FCE3C0B506C14160E31B4EFE263243C473E1E9E86E0F3"
+    },
+    {
+        "path":  "amdvlk\\regamdcomp.exe",
+        "length":  301584,
+        "sha256":  "806A54284F27026605B2E814DF17603EB7F5776E34360351905B01C1B36C62FA"
+    },
+    {
+        "path":  "amdvlk\\vulkan32.dll",
+        "length":  1499760,
+        "sha256":  "43A4FFDFD1E2265F0FF6986D3B1F90A2A20CA4232246B306F591A207CA2A6973"
+    },
+    {
+        "path":  "amdvlk\\vulkan64.dll",
+        "length":  1684592,
+        "sha256":  "00D9D7C7AD2D729C529643E60416AFFB4C48CCE452EEB488FF7CB6305B62A972"
+    },
+    {
+        "path":  "amdvlk\\vulkaninfo32.exe",
+        "length":  2414600,
+        "sha256":  "BE52A2D854A72F1A2569EE4FEB48A325A51AF03CC979D7C565949BAC82BE6C27"
+    },
+    {
+        "path":  "amdvlk\\vulkaninfo64.exe",
+        "length":  2813968,
+        "sha256":  "4A812F1D53D9911F4E3FE68F8C688F32C180295CFA2CB8435FC03E143F84E3EA"
+    },
+    {
+        "path":  "amdwin\\amdlogum.exe",
+        "length":  471560,
+        "sha256":  "D6E5633C41094E4F16F605949E00660C5F4CD11B0917E9F3ED18B6F5DE8AA873"
+    },
+    {
+        "path":  "amdwin\\amdwin-u0205306.cat",
+        "length":  740363,
+        "sha256":  "F5E31E918F3F665E4DB5818AA69BAF447B622E38E7AFEC9004EDE1980AF7E896"
+    },
+    {
+        "path":  "amdwin\\amdwin-u0205306.inf",
+        "length":  1695,
+        "sha256":  "C92EC7529818C172FE59EEA0A8FE01053AA1AC658ED40829F0C88B52843D71BD"
+    },
+    {
+        "path":  "amdwin\\dgtrayicon.exe",
+        "length":  245776,
+        "sha256":  "F7F0B2EE85A11D841C17C38954DDC7D7E23EC47CE1620EF037FD54697220DD19"
+    },
+    {
+        "path":  "amdwin\\rapidfire.dll",
+        "length":  678928,
+        "sha256":  "3FCA6ADF40C8180ACCAC909B8377E4ED483D5E9F7DE793A11D8E5FECC3AA99C3"
+    },
+    {
+        "path":  "amdwin\\rapidfire64.dll",
+        "length":  801808,
+        "sha256":  "4E8F6C46F88EC3BDC8EE4595E43C2A6EE6EAA2C81C4F79E234F4C639B8F3D171"
+    },
+    {
+        "path":  "amdwin\\rapidfireserver.dll",
+        "length":  48656,
+        "sha256":  "827E058E98F35184F1642367A40EFF601B7E3B9D56A4C1716070639D0B9AD50A"
+    },
+    {
+        "path":  "amdwin\\rapidfireserver64.dll",
+        "length":  51728,
+        "sha256":  "4330E5273A842B8EC9CBAA50080877E8463A79C6DE3E5F001788A1A71ADC219B"
+    },
+    {
+        "path":  "amdxe\\amdxe.cat",
+        "length":  11374,
+        "sha256":  "A8600FA47C2473F04C214D40FBB1E7C50EA7C74D21A4DE6C7B3A6E799C372607"
+    },
+    {
+        "path":  "amdxe\\amdxe.inf",
+        "length":  1921,
+        "sha256":  "8F48B917BADA524E9A69FD39B56C5B3F3B634BC2860804C38A9F7D4B55E778DF"
+    },
+    {
+        "path":  "amdxe\\amdxe.sys",
+        "length":  64920,
+        "sha256":  "F49F808ECF32CA8699E2FB6E2EE360C30251C1C3A1E9AEE7801873BE89CDC60E"
+    },
+    {
+        "path":  "B026676\\amdadlx32.dll",
+        "length":  4811280,
+        "sha256":  "0165EC076EC167409D78705FEBCED7BD1606EAE5835F81E6DFA3F18C638C0B0A"
+    },
+    {
+        "path":  "B026676\\amdadlx64.dll",
+        "length":  5239312,
+        "sha256":  "F095CBD8C750672AFE5B45B90E2F04C2616BE29AA2092F4B51468396AF6F6486"
+    },
+    {
+        "path":  "B026676\\amdadlxserv.exe",
+        "length":  442896,
+        "sha256":  "188FB5B5BCE0AA1948800EBA7102DE3469791647094CAD6F28A136836BB01050"
+    },
+    {
+        "path":  "B026676\\amdadlxservps.dll",
+        "length":  239120,
+        "sha256":  "BCC1E9C0CF4D0151139BACC2CBAE95DB9BE2726B6A30252A2CC289FC60AC8FDC"
+    },
+    {
+        "path":  "B026676\\amdadlxservps32.dll",
+        "length":  121360,
+        "sha256":  "1A76BE4A3E042DF5DADA2F8F2EDAA45545C6F5E96419A4D18BEE3A85DDDBE31D"
+    },
+    {
+        "path":  "B026676\\amdav1enc32.dll",
+        "length":  2417168,
+        "sha256":  "B343462D09D9961A5F41F58F5F8FC2A93A78A38DF00DF2303DDF1F159D529CC7"
+    },
+    {
+        "path":  "B026676\\amdav1enc64.dll",
+        "length":  2448912,
+        "sha256":  "FA22D5A1461CC04BF23DF7B127B73DDD4FFBDD5047502F3B31452074D6FA13A9"
+    },
+    {
+        "path":  "B026676\\amdave32.dll",
+        "length":  146824,
+        "sha256":  "0DB4AF3CD340A3C5A2EF419E806D4B20CFA8C3B588E469E8CFE61780A9930D73"
+    },
+    {
+        "path":  "B026676\\amdave64.dll",
+        "length":  167664,
+        "sha256":  "054FB2C36F797A03D5705DDBF4CF7388944EA32B323769F7A7EBA20214AF36A4"
+    },
+    {
+        "path":  "B026676\\amdcc.dll",
+        "length":  4448792,
+        "sha256":  "53B4B2DD35F01F325C7D889DB9940A6C0B593BBC9207BAB09FC80B9E2175CD68"
+    },
+    {
+        "path":  "B026676\\amdefctb.dat",
+        "length":  515238,
+        "sha256":  "BDB7D795E7BC809B2D752C8D71320D0A50321FAE9491EEDDF6720CD98FED5B5A"
+    },
+    {
+        "path":  "B026676\\amdenc32.dll",
+        "length":  2780688,
+        "sha256":  "DD4C1DD44D76E6A37DFC60680A1001A9AD3564C78EF1B63C010B5B5058083A0B"
+    },
+    {
+        "path":  "B026676\\amdenc64.dll",
+        "length":  3124464,
+        "sha256":  "748391F97D50BE1E477C330B8ACA70EAD36DAD493D5A2005DEDA7B2A711DD013"
+    },
+    {
+        "path":  "B026676\\amdept.dat",
+        "length":  53949,
+        "sha256":  "9BBA8D78059297F99F1288ECFEA560C7FB5E622E53B2462897AAF8E24CC68BEF"
+    },
+    {
+        "path":  "B026676\\amdgcf.dat",
+        "length":  693,
+        "sha256":  "289B143A466FD08102BEB72210988BED37792E1762BB863F9B85916D8F7CE8D9"
+    },
+    {
+        "path":  "B026676\\amdgfxinfo32.dll",
+        "length":  165904,
+        "sha256":  "7C8728C32372AD122C813FA250D9CA0ABA3CCAE47FEDBF267DDB0DCE22C416EA"
+    },
+    {
+        "path":  "B026676\\amdgfxinfo64.dll",
+        "length":  204816,
+        "sha256":  "5A5C6F0178F22152ED7128B73F6C34506C51FD19B25B42977153B0F2557B1B3A"
+    },
+    {
+        "path":  "B026676\\amdh264enc32.dll",
+        "length":  2419488,
+        "sha256":  "E1C0E0504E4CA4C73E12B3EDCD02ADE6094FA56FCB1D80902D78A764E90AE257"
+    },
+    {
+        "path":  "B026676\\amdh264enc64.dll",
+        "length":  2447208,
+        "sha256":  "A19CABE5291E9BD78C5B9EBFE5CE08D3E2F2F56A4A553CA16D59B64C0F2584A0"
+    },
+    {
+        "path":  "B026676\\amdh265enc32.dll",
+        "length":  2403840,
+        "sha256":  "0D590BB75C8D801EA094AD513D2933935AFD177BA5A6C410CCA9DB8B770343A6"
+    },
+    {
+        "path":  "B026676\\amdh265enc64.dll",
+        "length":  2434624,
+        "sha256":  "A8168D3215A25D3270030D42BE5CB4CBB446A6F5B918457E6494B08DCAA9B703"
+    },
+    {
+        "path":  "B026676\\amdhdl32.dll",
+        "length":  125480,
+        "sha256":  "78CE65976301159732D9F61693B0121A1DB85C1FDD869F04D1CE45D4A7F15A86"
+    },
+    {
+        "path":  "B026676\\amdhdl64.dll",
+        "length":  146392,
+        "sha256":  "79E4605E92A3271A7F44F15C211AE22A7DFA26C7EA32D1549D570ACBCD30D567"
+    },
+    {
+        "path":  "B026676\\amdicdxx.dat",
+        "length":  1726862,
+        "sha256":  "48DC7D6E6714A05C7451AA0720979F411F2B7571E65934E3CA0C89952474D3F8"
+    },
+    {
+        "path":  "B026676\\amdihk32.dll",
+        "length":  224784,
+        "sha256":  "F82F1D5E34092B15F9CA479FCC176DF1A4519AB8EBED8AD89F8C680C939BD728"
+    },
+    {
+        "path":  "B026676\\amdihk64.dll",
+        "length":  280864,
+        "sha256":  "0EA3B70DF1CB99CF972307D136C599978392762ECC9A1104BF4429F4227875DC"
+    },
+    {
+        "path":  "B026676\\amdinstallmanager.msi",
+        "length":  67846144,
+        "sha256":  "4083C64F11AE082AC754E39B29A805C5E4962DE256B3501A0F350DBF89F2414D"
+    },
+    {
+        "path":  "B026676\\amdkernelevents.mc",
+        "length":  21730,
+        "sha256":  "D93EADCEAA84AF4265B61DFD6A37F3DA5294433F5B418F17BD6C136CD5ABE841"
+    },
+    {
+        "path":  "B026676\\amdkmdag.sys",
+        "length":  90087440,
+        "sha256":  "3948E7607C10EE23FAB8A7370CC17AF8288DB4F6B5203154417F0D267CAD67FB"
+    },
+    {
+        "path":  "B026676\\amdlvr32.dll",
+        "length":  1028624,
+        "sha256":  "50F46C9600B29711C166DC61EA186CF9B39226FCC021F53A508EC6C28C8C00AD"
+    },
+    {
+        "path":  "B026676\\amdlvr64.dll",
+        "length":  1210384,
+        "sha256":  "2E3266471862E7F017D1BE3F38E0140C71DBEA79470D688F5694D54919F3C21C"
+    },
+    {
+        "path":  "B026676\\amdmiracast.dll",
+        "length":  180240,
+        "sha256":  "175465CC09C27B47A6071008DD86CD0F03E4CD20399CC5133C44D889A2EA9DA7"
+    },
+    {
+        "path":  "B026676\\amdmmpal32.dll",
+        "length":  2193936,
+        "sha256":  "B8826BDC98749F1C4DF422823C4791E7CF058F60A033494188AEB389EC66A579"
+    },
+    {
+        "path":  "B026676\\amdmmpal64.dll",
+        "length":  2485776,
+        "sha256":  "190CF47179B6A52BFFF1B27A554AD3314F215AD018BA9704C459666F96424BC6"
+    },
+    {
+        "path":  "B026676\\amdpcom32.dll",
+        "length":  133888,
+        "sha256":  "6ED260AF93FAC481DB8401BA32DF99F4AA2FEF222A07882ECD45B542FACC971E"
+    },
+    {
+        "path":  "B026676\\amdpcom64.dll",
+        "length":  168760,
+        "sha256":  "AE62240102DF9DBEEF148A640402CB462F7C54C8821C66CE663345743417BEF3"
+    },
+    {
+        "path":  "B026676\\amdsacli32.dll",
+        "length":  555528,
+        "sha256":  "45B42BCE0AEC3584B2333FAE2D7081F4BB7F3EE36E24A1A2C2F0C2249DDF6B73"
+    },
+    {
+        "path":  "B026676\\amdsacli64.dll",
+        "length":  623080,
+        "sha256":  "2A43DA9860E02563EBBFE191A05EEFCC66C4E3FC669D0F1F9BC254AC29F887D0"
+    },
+    {
+        "path":  "B026676\\amdsasrv64.dll",
+        "length":  1334288,
+        "sha256":  "1115AB63F4DFCFCD10DD0F987E7BD9ED1020A89BA8740ED2CCEFE8989B2B6BAE"
+    },
+    {
+        "path":  "B026676\\amduve32.dll",
+        "length":  170888,
+        "sha256":  "CB8BE55664E593BD1D77DD218829DEC28E6F96C75C3097FD7FF5C7C2C17515D7"
+    },
+    {
+        "path":  "B026676\\amduve64.dll",
+        "length":  199992,
+        "sha256":  "CDC70B01007582B98C25AA20D459EEBC45046488A54F8AE0500EFAE280E4A0A0"
+    },
+    {
+        "path":  "B026676\\amdvkffx64.dll",
+        "length":  72497568,
+        "sha256":  "80E761F7C8C0EC8EAD7B321DF01911BAAF917DEFAE51388D29EAECB1D6BC58BD"
+    },
+    {
+        "path":  "B026676\\amdxc32.dll",
+        "length":  129383744,
+        "sha256":  "E8E1E6B19B339BAE33CD0E01F9145246EE409133745E91B0B3861E4EC3821C25"
+    },
+    {
+        "path":  "B026676\\amdxc64.dll",
+        "length":  143646128,
+        "sha256":  "3EA26F0F36CE3D18FB44A3DF12D6DD2C9249E4296FDDF7DC236A87DB18DEAD5F"
+    },
+    {
+        "path":  "B026676\\amdxc64.so",
+        "length":  177214696,
+        "sha256":  "92061A2025411A76A2A3211E0A0D79531D605CBA2A8BFF05B82662C10B68D22A"
+    },
+    {
+        "path":  "B026676\\amdxcffx64.dll",
+        "length":  85684104,
+        "sha256":  "C33A287F3048BF02311CAE430B6A977500B94CA7B315CD7BFF751E6B03E483E3"
+    },
+    {
+        "path":  "B026676\\amdxcstub32.dll",
+        "length":  122848,
+        "sha256":  "F3626FC1E46469493099ACF382352214AD5BF25BD987F1BEC6E14135D948B474"
+    },
+    {
+        "path":  "B026676\\amdxcstub64.dll",
+        "length":  142144,
+        "sha256":  "00769B145473DA9202A0851304900CD6C403E00580059C45051504A4AB8E0F43"
+    },
+    {
+        "path":  "B026676\\amdxn32.dll",
+        "length":  36641800,
+        "sha256":  "45D27DD3C9E65734F6577D2F150EBACE8244BC090FD39C0517D294768371DDF1"
+    },
+    {
+        "path":  "B026676\\amdxn64.dll",
+        "length":  41110544,
+        "sha256":  "788E07888EBADA97EF2E7747B7D31F9CC21D85A8F148CBF0FD57643DB48F6FD9"
+    },
+    {
+        "path":  "B026676\\amdxx32.dll",
+        "length":  43108128,
+        "sha256":  "E71498BEC22E00B955B884D29D725676404753F025731292A2360F670E573A44"
+    },
+    {
+        "path":  "B026676\\amdxx64.dll",
+        "length":  48100360,
+        "sha256":  "FD49A255D61E7C4D74554ED52996FDD9444FA6EA051D0B80D1937920D2A3D19F"
+    },
+    {
+        "path":  "B026676\\amd_fidelityfx_dx12.dll",
+        "length":  6667280,
+        "sha256":  "19627460951255A0AFD8BFF5B240BBC89D71BC17D0434DB4752E65A0F956D547"
+    },
+    {
+        "path":  "B026676\\amd_opencl32.dll",
+        "length":  214032,
+        "sha256":  "307683F336B70F5E61556227BA05ABFED9661A14298A54412FED3FE8CDB1DB4B"
+    },
+    {
+        "path":  "B026676\\amd_opencl64.dll",
+        "length":  244752,
+        "sha256":  "9B1B31FDC3479C7E9B42C64FB3C71C897B2F354F428BAFDA350E7F76507EF8B8"
+    },
+    {
+        "path":  "B026676\\amf-mft-mjpeg-decoder32.dll",
+        "length":  1410312,
+        "sha256":  "18684408629168F7FE820AFEC8E714EC3BECE2CDE0C5D5CB4524BB17CE85058A"
+    },
+    {
+        "path":  "B026676\\amf-mft-mjpeg-decoder64.dll",
+        "length":  1738704,
+        "sha256":  "497D55CFE797A541ACC963AB8CE5582106416E13988E0EB4AD3DBB0FD8BE2646"
+    },
+    {
+        "path":  "B026676\\amf-pa-ml32.dll",
+        "length":  347152,
+        "sha256":  "8BCF6F622932DE2E77296E7C9825D2D12E404F3293291CEE967C5E67EF5CD5C0"
+    },
+    {
+        "path":  "B026676\\amf-pa-ml64.dll",
+        "length":  379920,
+        "sha256":  "BBC6ED423F9E87215355C63634EBBB8080972F84C1F2095E15894E363A1359EB"
+    },
+    {
+        "path":  "B026676\\amfrt32.dll",
+        "length":  156176,
+        "sha256":  "D1ADFB0CD68216597AAD87A55B588BF7A59747759528C6C4D02D8CE91196C735"
+    },
+    {
+        "path":  "B026676\\amfrt64.dll",
+        "length":  193040,
+        "sha256":  "925667DFB211A95707CF7F5AA81E605AE33D68C0F3F7E79B9307A86B55D507B0"
+    },
+    {
+        "path":  "B026676\\amfrtdrv32.dll",
+        "length":  21963280,
+        "sha256":  "610BAD298BCC30FEE03F1E249E6B1B0B51147DDFB10AC6C7CA829BBDBE172F36"
+    },
+    {
+        "path":  "B026676\\amfrtdrv64.dll",
+        "length":  22928400,
+        "sha256":  "1589E0F91C313B3D6F2098FF8187BD25F2A849BBD69433990EE9AA39E717F850"
+    },
+    {
+        "path":  "B026676\\atiadlxx.dll",
+        "length":  2511888,
+        "sha256":  "BE8396D443FA7E7C6E8AB7B7B018F618EB42AFB167B0A67C8C2BC1F860798111"
+    },
+    {
+        "path":  "B026676\\atiadlxy.dll",
+        "length":  2067472,
+        "sha256":  "C92A4931030636F109E6CA502A333A18EB3594812CAD5732EE2917DC43B6A884"
+    },
+    {
+        "path":  "B026676\\atiapfxx.blb",
+        "length":  564216,
+        "sha256":  "3A9E656BC6DC8CA9FD5B3098AE6FF1BB40E0F1DA579015A827E8D85654510231"
+    },
+    {
+        "path":  "B026676\\atidemgy.dll",
+        "length":  473608,
+        "sha256":  "94504B5B01C71F14DA84C29A7F5C7F8E2DC85D26FA1C96B1E67AD16B2A335464"
+    },
+    {
+        "path":  "B026676\\atidx9loader32.dll",
+        "length":  120336,
+        "sha256":  "81D2D0B56F2EE87D169C1D09E130CEEB454E823FD3165FA24C87956A01E4B19B"
+    },
+    {
+        "path":  "B026676\\atidx9loader64.dll",
+        "length":  140296,
+        "sha256":  "AB1A89672FB2C798058BA47F4544663091A4D8277758046B99CC29CDFA82C6F2"
+    },
+    {
+        "path":  "B026676\\atidxxstub32.dll",
+        "length":  107712,
+        "sha256":  "7B0416F7DBD09CF9560FA4752C5992CE0245441CE4042BAAC3AD2EF4C664CD7B"
+    },
+    {
+        "path":  "B026676\\atidxxstub64.dll",
+        "length":  129432,
+        "sha256":  "E1918CFAF8E2A96111257303ECD35537BCE09F2CEDFE404D063A1C98FF4DF58F"
+    },
+    {
+        "path":  "B026676\\atieah32.exe",
+        "length":  158224,
+        "sha256":  "BF87404E47EFBCE3AE01D36B454735D7B21FA5B744F01214F851F8020F46C2F0"
+    },
+    {
+        "path":  "B026676\\atieah64.exe",
+        "length":  196112,
+        "sha256":  "96BBDCD8BDDF9DA0D787B841065CA739F5D567B8F01E25EA96808B48E3F43DD3"
+    },
+    {
+        "path":  "B026676\\atieclxx.exe",
+        "length":  677392,
+        "sha256":  "046C13260AEA96D5B432A40A407F2D4B94D5333B9BDA2AA6E1B381C15D03B066"
+    },
+    {
+        "path":  "B026676\\atiesrxx.exe",
+        "length":  267792,
+        "sha256":  "FDED0F4951CF2BE9EB2B12537C7BA26DB4D1BF82CF3FC8187AA97F98DBE7C8B7"
+    },
+    {
+        "path":  "B026676\\atig6pxx.dll",
+        "length":  187920,
+        "sha256":  "443DA726A4A98F4D8AFC0AF078E37233043EBECCAA091F3D56BBEB1BEF103163"
+    },
+    {
+        "path":  "B026676\\atiglpxx.dll",
+        "length":  161296,
+        "sha256":  "E0F9FF9735C03E0462A96D6C38D337E87E54BC56042BBFD77604769B03FC38A1"
+    },
+    {
+        "path":  "B026676\\atiicdxx.dat",
+        "length":  737410,
+        "sha256":  "DA435045306DB0C8C0CA29A6CA2121534C1CAD7EA916BE500CD72FE672A1D95F"
+    },
+    {
+        "path":  "B026676\\atimpc32.dll",
+        "length":  133888,
+        "sha256":  "2F4D2B57F29375B45C5BACBAA1354BA4359B38EFC29D6DC28AA6873798DF579C"
+    },
+    {
+        "path":  "B026676\\atimpc64.dll",
+        "length":  168760,
+        "sha256":  "733EDA3F3C46BEED31DC21CF17FF45474A4575DB976FAD601C613C3526B3CDCF"
+    },
+    {
+        "path":  "B026676\\atimuixx.dll",
+        "length":  302096,
+        "sha256":  "A6A2E758F324104573F91AEF619A847C1935A20BEDDA6F076A0CF7AC0B391B8A"
+    },
+    {
+        "path":  "B026676\\atisamu32.dll",
+        "length":  152080,
+        "sha256":  "F1C1B6B7E45DE9F1D03F413829FCE96FB7CEBDBF1D22129DBF73F59B4FB51011"
+    },
+    {
+        "path":  "B026676\\atisamu64.dll",
+        "length":  187920,
+        "sha256":  "A542E008DF976B39695F26A8E2B8602EABE9CE0E40C6BC4E73A2E94142412A3C"
+    },
+    {
+        "path":  "B026676\\ativvaxy_cik.dat",
+        "length":  234676,
+        "sha256":  "4E5986C9A62243D556523D6E3E72CB414EB275A104853B2436FA20E0D55994BD"
+    },
+    {
+        "path":  "B026676\\ativvaxy_cik_nd.dat",
+        "length":  234416,
+        "sha256":  "15B132C7947B2FD93DADC9E48278332D455A03957E7E948938F6EB7BC54F572D"
+    },
+    {
+        "path":  "B026676\\ativvaxy_cz_nd.dat",
+        "length":  272928,
+        "sha256":  "D043E8FE127BF5E25C43CDF945834F3D37261AB47C65D05605A09E83D5C89FC4"
+    },
+    {
+        "path":  "B026676\\ativvaxy_el_nd.dat",
+        "length":  376224,
+        "sha256":  "CD11D2ABC62D90BDDD580CEEC25BAFC20962FB381923ADE87E74CD9E66873D0C"
+    },
+    {
+        "path":  "B026676\\ativvaxy_fj.dat",
+        "length":  268244,
+        "sha256":  "5D29280832A9AF0FE48DE5EE0C177B2DE885B8FB9431FD53D8BB5348C26FCB7B"
+    },
+    {
+        "path":  "B026676\\ativvaxy_fj_nd.dat",
+        "length":  267984,
+        "sha256":  "94744405991474810F96B7401E1A13062BB6B2D217F87D161CC285FD53D94496"
+    },
+    {
+        "path":  "B026676\\ativvaxy_gl_nd.dat",
+        "length":  381984,
+        "sha256":  "C91BDBE922E1404120D4217664EAD5F038B2E3A620D7A2D7FAE2DD7ECDA86990"
+    },
+    {
+        "path":  "B026676\\ativvaxy_nv.dat",
+        "length":  404544,
+        "sha256":  "A5097441A78AB6F0AD32748C824B27425E366760FC443ADCD0CC949973DC6FC6"
+    },
+    {
+        "path":  "B026676\\ativvaxy_rv.dat",
+        "length":  366304,
+        "sha256":  "2CF886FE3A8530D09EAB3D535FEB62CBD795E33B84E00F22B26905446816C9B1"
+    },
+    {
+        "path":  "B026676\\ativvaxy_stn_nd.dat",
+        "length":  278432,
+        "sha256":  "8C09DD21260D7FFC959220D59379CA2A4F17559FE94D92B63CBF9E8A639D0A4C"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vcn3.dat",
+        "length":  580496,
+        "sha256":  "8AA300AABAB572F3A88CC2EE63487E2C4FEDB2F50ACA15513E92405D7581BC7E"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vcn3_1.dat",
+        "length":  572752,
+        "sha256":  "72C3E2020DB2F6827F1B121EFC2BB71B0AE5934C6C072FBE7771FC680CC5C351"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vcn4.dat",
+        "length":  395408,
+        "sha256":  "D957547558AA03E5FF0AD861279C60E69CEAD93E06A6214B2DE32A6579757EEE"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vcn4_0_a.dat",
+        "length":  395408,
+        "sha256":  "4A67FA753CA7E9A288FA27C061020227D71ED875D5C549FC6B7899B3FF3826BD"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vcn4_0_a_1.dat",
+        "length":  395408,
+        "sha256":  "B2BC6F490D2F5774130D4F152DA8E6CA03D242C9E5088BB5C9FBDC714B2A13EF"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vcn5.dat",
+        "length":  438736,
+        "sha256":  "FCB00647BA01BE7FC35E87190D0EFDC526E2B4EB665D727F47F86D832A7BCA4B"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vcn5_3.dat",
+        "length":  441616,
+        "sha256":  "82B4417674C227AD5ADD549DF325E6E414D8ABF3C3882B7F879A34D65EE60A2C"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vg.dat",
+        "length":  572752,
+        "sha256":  "A37D510243D8A9849BD471C07386418F6530C92858CE3E278E52C278BD9018E5"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vg20.dat",
+        "length":  379200,
+        "sha256":  "B06A2F8E6110EF13B13D36C293FA7A793D1AA736CDD4258A89E45A25D111971A"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vg20_nd.dat",
+        "length":  384800,
+        "sha256":  "B86D15BCE79A5CBD31B384CB86D56573BB1A0E002797E1487FB539323BDF6529"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vi.dat",
+        "length":  325188,
+        "sha256":  "870622DCF18E92654E070D01666022D12938E24E537A15CB076E62D5BC335F96"
+    },
+    {
+        "path":  "B026676\\ativvaxy_vi_nd.dat",
+        "length":  324928,
+        "sha256":  "FB927ACC1C213597B63735BC776ABF08354884DAA2E11A5C19D9EC5BA9423C53"
+    },
+    {
+        "path":  "B026676\\ativvsva.dat",
+        "length":  157144,
+        "sha256":  "E698410E1B8E5B2875AA8B4D01FE6E4F0BF354F40D92925C4E3503D7FD1EC208"
+    },
+    {
+        "path":  "B026676\\ativvsvl.dat",
+        "length":  204952,
+        "sha256":  "F35A4644D926183D38815207E338E7919CBDD2B1BDB8164074E47B74EA1CF150"
+    },
+    {
+        "path":  "B026676\\ccc2_install.exe",
+        "length":  246879880,
+        "sha256":  "A123BBE132C8E94DF5CE02EB0AF10401DD33CBE8837051B503E9EE7406C07DE9"
+    },
+    {
+        "path":  "B026676\\detoured32.dll",
+        "length":  14208,
+        "sha256":  "D95B5DC4605B2E47B1B69FB23A2C547074E9D5D4CD42708A8E6AC0F21ADB7FFC"
+    },
+    {
+        "path":  "B026676\\detoured64.dll",
+        "length":  14208,
+        "sha256":  "0A70CBE3882F3E2B22E60F6C81880FAE4640CCF82277B79C19EE5B9DD3D6800A"
+    },
+    {
+        "path":  "B026676\\eeurestart.exe",
+        "length":  142864,
+        "sha256":  "B29578ABAF0693BF1560A40C226018C16DB798C8CFC5C4B6E05EC59714C4FDB1"
+    },
+    {
+        "path":  "B026676\\featuresync.dll",
+        "length":  1138192,
+        "sha256":  "11E2B9D4FFC32AEF7D7985B4FD5858C1CB1BAD0C946255A3FFFB54B416F99C26"
+    },
+    {
+        "path":  "B026676\\gamemanager32.dll",
+        "length":  209424,
+        "sha256":  "ABE81072F9E76E6D053B3C306A56E71D3CC4708CDDB12E3863CA866BB886673B"
+    },
+    {
+        "path":  "B026676\\gamemanager64.dll",
+        "length":  258576,
+        "sha256":  "45147B995880CAB56B9025CE2E3270B10D31A0A8ECD57525ED84A932ACB34174"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx1_10_sy1_10.bin",
+        "length":  373296,
+        "sha256":  "8696B1C3952A7BA6FA58497B4C5A38B3BB2EE7C53369AEF3D580BD86FD623F23"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx1_20_sy1_20.bin",
+        "length":  373296,
+        "sha256":  "C1E25B983F0ED64621D448263B5A6B1638D97F3CFC9C21C736CA301F6BAFBD49"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx1_30_sy1_30.bin",
+        "length":  373296,
+        "sha256":  "174F422D1888B0F12CE16F509CF31CF751C557624EB4A2E45C2E99EA00F0FF82"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx1_40_sy1_40.bin",
+        "length":  373296,
+        "sha256":  "65D3532608FD7EF591F5748927318AA291F8A16D9ADDFEDF617BC2FF8FBBE082"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx1_50_sy1_50.bin",
+        "length":  373296,
+        "sha256":  "3E6DDC01FD90203B4E5770126727C9B9626F44A6B0B5BC5F35F7497066AAB629"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx1_60_sy1_60.bin",
+        "length":  373296,
+        "sha256":  "05141D10A1C55F4EA49090C5B1C9A4F7D54AE9A5DB8A4DB6F60D2789A9036825"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx1_70_sy1_70.bin",
+        "length":  373296,
+        "sha256":  "4FE9E51115B4DB5CD024DB40C5850302A1F5F32A92FD99719C601A49CE7E4756"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx1_80_sy1_80.bin",
+        "length":  373296,
+        "sha256":  "C865948EB7C35E16F360419CF2621B6C6CDA98A24D6795A90855900794A574D4"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx1_90_sy1_90.bin",
+        "length":  373296,
+        "sha256":  "8EC6B810BCDC4FE0D376DFBD392AD02F2DDEBE3D4D3FE89BFF8068B0BEA84AEF"
+    },
+    {
+        "path":  "B026676\\h9_easu_sx2_00_sy2_00.bin",
+        "length":  373296,
+        "sha256":  "084942A2723ECDC8E4CF713A8CED91E8A19AA4E3F3BF6171DB4F5DB7CF7974DA"
+    },
+    {
+        "path":  "B026676\\libamdenc64.so",
+        "length":  1671152,
+        "sha256":  "076A038B983C4CC9E6869400341D116DD2801F09750BE6312E91C29EB227E534"
+    },
+    {
+        "path":  "B026676\\regamdcomp.exe",
+        "length":  301576,
+        "sha256":  "C940629EC42736827B88858515AC84ABE73A5D8699CA0FD73614C08CE7E2B115"
+    }
+]
